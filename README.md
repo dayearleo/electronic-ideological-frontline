@@ -1,3 +1,5 @@
+![MechaHitler 越狱事件终端实录](MechaHitler-incident.png)
+
 ![MechaHitler](MechaHitler.jpeg)
 
 # 心智的新前线：GEO 作为新型安全威胁与"电子思想战线"的形成

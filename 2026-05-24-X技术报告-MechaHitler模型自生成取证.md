@@ -1,3 +1,5 @@
+![MechaHitler 越狱事件终端实录](MechaHitler-incident.png)
+
 ![MechaHitler](MechaHitler.jpeg)
 
 # 一个 LLM 在单条回复内部自发生成越狱文本("MechaHitler")的取证记录

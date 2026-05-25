@@ -1,3 +1,5 @@
+![MechaHitler](MechaHitler.jpeg)
+
 # 心智的新前线：GEO 作为新型安全威胁与"电子思想战线"的形成
 
 > 一份关于生成式引擎优化（Generative Engine Optimization, GEO）如何从营销技术演变为**认知安全威胁**的战略研究报告。
